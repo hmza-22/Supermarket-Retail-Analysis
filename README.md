@@ -47,7 +47,7 @@ Key Insights
 
 (Replace with your actual findings)
 
-EGGS, MEAT & FISH contributed the largest share of total sales at [X]%
+EGGS, MEAT & FISH contributed the largest share of total sales 
 WEST generated the highest sales
 Higher discounts were associated with lower profit margins
 MASALAS showed high sales but low profit, indicating a margin problem worth reviewing
